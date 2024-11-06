@@ -1,0 +1,3 @@
+# Initialize with 0 torpedoes in both stores
+GT4500,0,0,0,0
+TORPEDO,SINGLE # Should fail as both stores are empty
