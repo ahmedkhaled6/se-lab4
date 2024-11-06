@@ -1,0 +1,9 @@
+# Initialize with 3 torpedoes in primary store, 5 in secondary, 0% failure rate
+GT4500,3,0,5,0
+TORPEDO,SINGLE # Should fire from the primary store
+TORPEDO,SINGLE # Should fire from the secondary store
+TORPEDO,SINGLE # Should fire from the primary store
+TORPEDO,SINGLE # Should fire from the secondary store
+TORPEDO,SINGLE # Primary store now empty, should fire from secondary store
+TORPEDO,SINGLE # Should continue firing from secondary store
+TORPEDO,SINGLE # Should continue firing from secondary store
