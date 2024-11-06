@@ -1,0 +1,5 @@
+# Initialize with 10 torpedoes in each store, primary store has a 50% failure rate
+GT4500,5,1,5,1
+TORPEDO,SINGLE 
+TORPEDO,SINGLE 
+TORPEDO,ALL

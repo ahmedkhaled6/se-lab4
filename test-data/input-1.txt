@@ -1,0 +1,4 @@
+# Initialize with 10 torpedoes in both stores, no failure rate
+GT4500,10,0,10,0
+TORPEDO,SINGLE # Should fire from the primary store
+TORPEDO,SINGLE # Should fire from the secondary store

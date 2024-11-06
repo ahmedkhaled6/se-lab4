@@ -1,0 +1,8 @@
+SUCCESS # <- GT4500
+SUCCESS # <- TORPEDO (Primary store fires)
+SUCCESS # <- TORPEDO (Secondary store fires)
+SUCCESS # <- TORPEDO (Primary store fires)
+SUCCESS # <- TORPEDO (Secondary store fires)
+SUCCESS # <- TORPEDO (Secondary store fires, as primary is now empty)
+SUCCESS # <- TORPEDO (Secondary store fires)
+SUCCESS # <- TORPEDO (Secondary store fires)
